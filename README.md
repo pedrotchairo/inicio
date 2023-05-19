@@ -4,4 +4,4 @@
 
 * uso do comando restore
 
-# testando mais
+* comando git push 
